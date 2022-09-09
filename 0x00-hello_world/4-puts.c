@@ -2,9 +2,10 @@
 
 /**
  *
- *main-Entry point 
+ *main-entry point for the program
  *
- *Return: returns zero if no errors otherwise returns non-zero value.
+ *
+ *Return: default returns zero if no errors otherwise returns non-zero value.
  *
  */
 
