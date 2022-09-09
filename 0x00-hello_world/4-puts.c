@@ -5,7 +5,7 @@
  *main-entry point for the program
  *
  *
- *Return: default returns zero if no errors otherwise returns non-zero value.
+ *Return: returns zero if no errors otherwise returns non-zero value.
  *
  */
 
